@@ -1,0 +1,21 @@
+{
+    "name": "eslint-plugin-react-microstore",
+    "version": "1.0.0",
+    "description": "ESLint rules for react-microstore to catch unused selector keys.",
+    "main": "index.js",
+    "keywords": [
+      "eslint",
+      "eslintplugin",
+      "react",
+      "microstore",
+      "state",
+      "store",
+      "react-microstore"
+    ],
+    "author": "Ohad Baehr",
+    "license": "MIT",
+    "peerDependencies": {
+      "eslint": ">=7.0.0"
+    }
+  }
+  
